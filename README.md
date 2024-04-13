@@ -12,4 +12,7 @@
 
 <h2>Projeto em ação:</h2>
 
-![image](https://github.com/MoisesHsilva1/Landing-Page/assets/142702205/953d7bd7-2cb9-414c-890d-65b079bb1a8d)
+![image](https://github.com/MoisesHsilva1/Teste-de-interface-com-cypress/assets/142702205/718a0cf5-f89f-4e81-b4da-c09aa5462578)
+
+
+
